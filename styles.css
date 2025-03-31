@@ -22,7 +22,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.6) 80%, rgba(0, 0, 0, 0.6) 80%), url(Assets/1\ \(2\).png) center fixed;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6) 80%, rgba(0, 0, 0, 0.6) 80%), url(Assets/Home.png) center fixed;
     color: var(--light-color);
     line-height: 1.6;
     min-height: 100vh;
