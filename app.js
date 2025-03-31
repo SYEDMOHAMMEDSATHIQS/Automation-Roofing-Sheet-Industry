@@ -704,7 +704,7 @@ function generateBill(order, customerName, customerAddress, paymentMethod) {
         <table style="width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 12px;">
             <thead>
                 <tr style="background-color: #f2f2f2;">
-                    <th style="padding: 5px; border: 1px solid #ddd; text-align: left; width: 5%;">#</th>
+                    <th style="padding: 5px; border: 1px solid #ddd; text-align: left; width: 5%;">S.No</th>
                     <th style="padding: 5px; border: 1px solid #ddd; text-align: left; width: 45%;">Description</th>
                     <th style="padding: 5px; border: 1px solid #ddd; text-align: center; width: 10%;">Qty</th>
                     <th style="padding: 5px; border: 1px solid #ddd; text-align: center; width: 10%;">Length</th>
