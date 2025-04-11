@@ -680,7 +680,7 @@ function generateBill(order, customerName, customerAddress, paymentMethod) {
                 <h1 style="margin: 0; font-size: 24px;">SRE VINAYAGAA ROOFING PRODUCTS</h1>
                 <p style="margin: 5px 0; font-size: 14px;">V Tech Color Roofing Sheet Manufacturers</p>
                 <p style="margin: 5px 0; font-size: 12px;">65/3, ERODE MAIN ROAD, OPP. PALANISAMY COLLEGE, KARUKAMPALAYAM, PERUNDURAI, ERODE - 638 052 <br> Phone: +91 9942126768</p>
-                <p style="margin: 5px 0; font-size: 12px;">GSTIN: 22AAAAA0000A1Z5</p>
+                <p style="margin: 5px 0; font-size: 12px;">GSTIN: 33ACGFS2535J1Z4</p>
             </div>
             <div style="text-align: right;">
                 <h2 style="margin: 0; font-size: 20px; color: #2c3e50;">TAX INVOICE</h2>
